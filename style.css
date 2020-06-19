@@ -20,7 +20,7 @@ body {
 	padding: inherit;
 	font-weight: bold;
 	background-color: white;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   .navbar {
 	background-color: white;
@@ -41,7 +41,7 @@ body {
    }
   
   .navbar-brand:hover {
-  color: pink !important;
+  color:pink !important;
   }
   
   a {
@@ -67,7 +67,7 @@ body {
   /* Title */
   .title {
 	color: rgb(250, 191, 81);
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	font-weight: bolder;
 	padding-top: 10px;
   }
@@ -75,7 +75,7 @@ body {
   /* Paragraph */
   p {
   color: gray;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 15px;
   }
   
@@ -102,7 +102,7 @@ body {
   border-top-color: pink;
   color: black;
   min-height: 60px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 12px;
   text-align: center;
   position: fixed;
