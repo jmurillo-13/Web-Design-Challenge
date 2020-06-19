@@ -41,7 +41,7 @@ body {
    }
   
   .navbar-brand:hover {
-  color:pink !important;
+  color: !important;
   }
   
   a {
@@ -60,13 +60,13 @@ body {
 	
   }
   .vizualization {
-	width:50% !important;
-	height:50% !important;
+	width: 400px !important;
+	height:275px !important;
   }
   
   /* Title */
   .title {
-	color: rgb(250, 191, 81);
+	color: #800020;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	font-weight: bolder;
 	padding-top: 10px;
@@ -99,7 +99,7 @@ body {
   background-color: white;
   border-top-style: solid;
   border-top-width: 5px;
-  border-top-color: pink;
+  border-top-color:white;
   color: black;
   min-height: 60px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
