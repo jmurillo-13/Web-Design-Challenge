@@ -12,7 +12,8 @@ body {
   
   /* Navbar */
   .navbar {
-	max-height: 60px;
+  max-height: 60px;
+  background-color:#800020 ;
   }
   .navigation .navbar-brand {
   color: darkgray;
@@ -20,14 +21,11 @@ body {
 	margin-left: 0px;
 	padding: inherit;
   font-weight: bold;
-  size: ;
 	background-color:transparent;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
-  .navbar {
-	background-color: #800020;
-	font-size: 25px; 
-  }
+  
+  
   .active, .dropdown-menu .dropdown-item:active a:hover {
 	background-color: white !important;
   }
