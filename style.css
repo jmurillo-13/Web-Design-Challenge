@@ -68,6 +68,10 @@ body {
 	width: 400px !important;
 	height:275px !important;
   }
+  .float-left {
+  padding-right: inherit!important;
+  }
+
   
   /* Title */
   .title {
