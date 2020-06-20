@@ -65,13 +65,12 @@ body {
 	
   }
   .vizualization {
-	width: 400px !important;
-	height:275px !important;
+    width: 349px !important;
+    height: 241px !important;
+}
   }
   .float-left {
   padding-right: inherit!important;
-  }
-
   
   /* Title */
   .title {
