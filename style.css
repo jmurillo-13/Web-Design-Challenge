@@ -15,11 +15,13 @@ body {
 	max-height: 60px;
   }
   .navigation .navbar-brand {
-	color: white;
+  color: darkgray;
+  font-size: xx-large;
 	margin-left: 0px;
 	padding: inherit;
-	font-weight: bold;
-	background-color: white;
+  font-weight: bold;
+  size: ;
+	background-color:transparent;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   .navbar {
