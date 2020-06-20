@@ -4,7 +4,7 @@
 
 /* Body */
 body {
-  background-image:src= "WebVisulization/Resources/assets/images/max_temp.png"
+  background-image:url("WebVisulization/Resources/assets/images/linear_background.png")
 	height: 850px;
 	background-position: center;
 	background-repeat: no-repeat;
