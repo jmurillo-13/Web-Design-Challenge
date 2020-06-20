@@ -30,7 +30,7 @@ body {
 	background-color: white !important;
   }
   .dropdown-item {
-	color: pink !important;
+	color: #800020 !important;
   }
   .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
 	background-color: gray !important;
