@@ -149,4 +149,6 @@ body {
   .navigation .navbar-brand {
     color: #800020;
   }
+  .navbar-light .navbar-nav .nav-link {
+    color: black;
   }
