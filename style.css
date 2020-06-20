@@ -71,7 +71,7 @@ body {
   
   /* Title */
   .title {
-	color: #800020;
+	color: black;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	font-weight: bolder;
 	padding-top: 10px;
@@ -89,8 +89,8 @@ body {
 	margin-top: 50px;
 	margin-bottom: 60px;
 	padding: 10px 30px 10px;
-	color: #213159;
-	background-color: white;
+  border-radius: 25px;
+  background-color: rgba(128, 0, 32,.35)
   
   }
   /* Table */
@@ -124,6 +124,7 @@ body {
 	background-color: white !important;
 	}
 	.navbar {
+    background-color:#800020;
 	  max-height: none;
 	  padding: inherit;
 	}
@@ -140,5 +141,8 @@ body {
 	button:focus {
 	  outline: 1px dotted;
 	  outline: auto 5px;
-	}
+  }
+  .navigation .navbar-brand {
+    color: #800020;
+  }
   }
