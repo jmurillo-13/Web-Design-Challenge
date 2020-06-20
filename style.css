@@ -68,9 +68,10 @@ body {
     width: 349px !important;
     height: 241px !important;
 }
-  }
+
   .float-left {
   padding-right: inherit!important;
+}
   
   /* Title */
   .title {
@@ -82,7 +83,7 @@ body {
   
   /* Paragraph */
   p {
-  color: gray;
+  color: black;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 15px;
   }
