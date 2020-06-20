@@ -4,6 +4,7 @@
 
 /* Body */
 body {
+  background-image:src= "WebVisulization/Resources/assets/images/max_temp.png"
 	height: 850px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -17,7 +18,7 @@ body {
   background-color:#800020 ;
   }
   .navigation .navbar-brand {
-  color: darkgray;
+  color: white;
   font-size: xx-large;
 	margin-left: 0px;
 	padding: inherit;
